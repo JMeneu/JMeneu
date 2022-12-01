@@ -4,6 +4,11 @@
 
 ## 👋🏼 Hi there!
 
+Welcome to my repo! Here you'll find projects related to Machine Learning/ Computer vision/ Data Architectures and more!
+
+
+## 😄 About me...
+
 * 🎓 Recently graduate in Industrial Electronics[UPM]. 
 * 📈 Currently enrolled in a Masters in Big Data and Business Analytics [IE].
 * 🤓 Passionate for Data Pipelines, Cloud Computing and Machine Learning.
