@@ -1,9 +1,6 @@
 <img width="300" style="float:center" 
      src="https://i.imgur.com/6mYs6QG.png" />
 
-Welcome! This repository combines some of my projects related to Machine Learning/Computer Vision/Data Architectures and more!
-
-
 
 ## 👋🏼 Hi there!
 
